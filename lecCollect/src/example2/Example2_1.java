@@ -15,8 +15,8 @@ public class Example2_1 {
         list.add("Third Obj");
         list.add("Forth Obj");
         list.add("fifth Obj");
-//        list.add("Six Obj");
-//        list.add("Seventh Obj");
+        list.add("Six Obj");
+        list.add("Seventh Obj");
         System.out.println(list);
     }
 }

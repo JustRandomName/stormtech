@@ -15,7 +15,7 @@ public class Example1_1 {
         array[2] = "Third Obj";
         array[3] = "Forth Obj";
         array[4] = "fifth Obj";
-//        array[5] = "Six Obj";
+        array[5] = "Six Obj";
         System.out.println(Arrays.toString(array));
 
     }

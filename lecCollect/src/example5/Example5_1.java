@@ -10,7 +10,7 @@ import java.util.Set;
 
 public class Example5_1 {
     public static void main(String[] args) {
-        Map<Integer, String> states = new HashMap<Integer, String>();
+        Map<Integer, String> states = new HashMap<>();
         states.put(1, "Germany");
         states.put(2, "Spain");
         states.put(4, "France");
